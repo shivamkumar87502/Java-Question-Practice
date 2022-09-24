@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Q001_To_Calculate_fibonacci_series{
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        System.out.println("Enter the value of n : ");
+        System.out.print("Enter the value of n : ");
         int n = in.nextInt();
         int a = 0;
         int b = 1;
